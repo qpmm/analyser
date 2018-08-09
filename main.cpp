@@ -37,6 +37,6 @@ int main(int argc, char* argv[])
     for (auto item = counter.begin(); item != counter.end(); ++item)
         cout << item->first << " " << item->second << endl;
 
-	return 0;
+    return 0;
 }
 
